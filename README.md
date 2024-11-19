@@ -98,3 +98,8 @@ The table will be saved as `CPI_NEWS_RELEASE.xlsx.`
 
 ## Contributing
 Feel free to submit issues or pull requests for improvements or additional feature
+
+--- 
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
